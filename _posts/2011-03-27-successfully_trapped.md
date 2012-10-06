@@ -1,0 +1,29 @@
+---
+layout: post
+title: Successfully trapped!
+---
+
+
+<style type="text/css">
+img {
+  float: none;
+}
+</style>
+
+Last friday, we manage to trap our 2 strays!
+
+The poor cats were so hungry...
+
+Those two black cats are pregnant and so we are expecting them to have their kittens around first or second week of April.
+
+We are going to keep them in those traps until the labor starts, then move them to a big box full of soft rags.
+
+<p>
+"Short hair":<br/>
+<a href="/post/successfully_trapped/media/short_hair_20110325.jpg"><img src="/post/successfully_trapped/media/short_hair_20110325_thumb.jpg" width="320" height="240" /></a>
+</p>
+
+<p>
+"Furry":<br/>
+<a href="/post/successfully_trapped/media/furry_20110325.jpg"><img src="/post/successfully_trapped/media/furry_20110325_thumb.jpg" width="320" height="240" /></a>
+</p>
