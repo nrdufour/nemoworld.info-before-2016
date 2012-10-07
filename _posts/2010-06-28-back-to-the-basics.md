@@ -17,5 +17,5 @@ This book takes the bet to explain you the laws of the universe even if you are 
 First chapter: the roots of science. After all this is the first step. What are the law governing our universe. What is the goal of science. What kind of truth is there.
 
 <p style="text-align: center;">
-<img src="/post/back-to-the-basics/media/worlds.png" alt="The 3 worlds" width="350" height="350" style="float: none;" />
+<img src="/img/back-to-the-basics/worlds.png" alt="The 3 worlds" width="350" height="350" style="float: none;" />
 </p>

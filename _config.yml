@@ -1,0 +1,5 @@
+
+pygments: true
+
+exclude: [import_blog_into_jekyll]
+

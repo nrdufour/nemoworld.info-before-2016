@@ -7,7 +7,7 @@ After using the great examples provided in the Arduino kit, I decided to create 
 
 So I first draw the schema:
 
-![servo photo-resistor schema](/post/servo-photoresistor-arduino/media/servo_photoresistor2_schem.png)
+![servo photo-resistor schema](/img/servo-photoresistor-arduino/servo_photoresistor2_schem.png)
 
 Components:
 
@@ -23,6 +23,8 @@ Pretty nice to see the servo moving when the light goes down or up.
 {% youtube SkFT8sQVbG4 %}
 
 Here is the code I'm using:
+
+{% highlight cpp linenos %}
 
     #include <Servo.h>    
     Servo myservo;
@@ -48,6 +50,8 @@ Here is the code I'm using:
       delay(100);
     }
 
+{% endhighlight %}
+
 I guess now it's time to create something more complex! :-)
 
 **Update - 2011/09/07**:
@@ -55,7 +59,7 @@ I guess now it's time to create something more complex! :-)
 I'm adding also the breadboard view made with [Fritzing](http://fritzing.org/):
 
 
-![servo photo-resistor schema](/post/servo-photoresistor-arduino/media/servo_photoresistor2_bb.png)
+![servo photo-resistor schema](/img/servo-photoresistor-arduino/servo_photoresistor2_bb.png)
 
 I have also fixed the source to take account that the analog pin is encoded with 10 bits and therefore goes from 0 to 1023.
 
