@@ -9,6 +9,8 @@ Fortunately, you have at least an Ethernet port and ... a laptop or other comput
 
 Just connect the 2 devices with a regular Ethernet cable (or a cross one for old cards) and activate IP_forwards and NAT with the following script, found in this [forum](https://bbs.archlinux.org/viewtopic.php?pid=671501) :
 
+{% highlight bash linenos %}
+
     #!/bin/bash
     # Shares internet from wlan0 through eth0
     
@@ -33,5 +35,7 @@ Just connect the 2 devices with a regular Ethernet cable (or a cross one for old
     echo "usage: $0 {start|stop}"
     ;;
     esac
+
+{% endhighlight %}
 
 That's it.
