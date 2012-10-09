@@ -3,7 +3,7 @@ layout: post
 title: Oh! Un superfrenchie :)
 ---
 
-Voila une bonne surprise trouvée par ma femme : <a href="http://www.superfrenchie.com/">Superfrenchie.com</a> !
+Voila une bonne surprise trouvée par ma femme : [Superfrenchie.com](http://www.superfrenchie.com/) !
 
 Un site web d’un francais sur le bashing anti-francais et la société américaine en general.
 

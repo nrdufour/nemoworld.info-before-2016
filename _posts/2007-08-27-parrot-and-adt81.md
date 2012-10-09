@@ -11,4 +11,4 @@ I always wanted to create a virtual machine to provide the language ADT’81 (de
 
 ADT’81 is a language getting a bit old of course (looking close to Pascal and Simula) but providing a large number of features very interesting for any simulation programs.
 
-<blockquote>Update (2008/08/29): I have now abandonned that solution to implement Embryo Systems using Java, JCR and Groovy (see <a href="http://embryo-systems.info">http://embryo-systems.info</a>)</blockquote>
+> **Update** (2008/08/29): I have now abandonned that solution to implement Embryo Systems using Java, JCR and Groovy (see <http://embryo-systems.info>)

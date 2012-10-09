@@ -11,6 +11,6 @@ The Bush administration said the Geneva Conventions are respected, but all I hav
 
 I’m sure Jefferson would be shocked right now...
 
-Source (en) : <a href="http://web.archive.org/web/20070209063557/http://www.npr.org/templates/story/story.php?storyId=6167856">http://www.npr.org/templates/story/story.php?storyId=6167856</a>
+Source (en) : <http://www.npr.org/templates/story/story.php?storyId=6167856>
 
-Source (fr) : <a href="http://web.archive.org/web/20070209063557/http://www.lemonde.fr/web/article/0,1-0@2-3222,36-818149@51-809866,0.html">http://www.lemonde.fr/web/article/0,1-0@2-3222,36-818149@51-809866,0.html</a>
+Source (fr) : <http://www.lemonde.fr/web/article/0,1-0@2-3222,36-818149@51-809866,0.html>

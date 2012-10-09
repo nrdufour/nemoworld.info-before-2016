@@ -13,4 +13,4 @@ So, it’s just a start. It’s our first time so we are pretty green to that ki
 
 To be continued...
 
-<blockquote><strong>Update</strong> (2008/08/29): We finally bought a house and closed end of April. Since then it's lot of work to do as well, but lots of joy :)</blockquote>
+> **Update** (2008/08/29): We finally bought a house and closed end of April. Since then it's lot of work to do as well, but lots of joy :)
