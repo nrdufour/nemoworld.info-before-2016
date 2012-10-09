@@ -3,7 +3,7 @@ layout: post
 title: Embryosys and ADT
 ---
 
-Ok I have finally found the time to put on <a href="http://code.google.com/p/embryosys/" target="_blank">google code</a> the first pieces of embryo systems.
+Ok I have finally found the time to put on [google code](http://code.google.com/p/embryosys/) the first pieces of embryo systems.
 
 I hesitated between Google code and hosting myself the code. I opted on Google for its longevity, I guess ;)
 
@@ -13,6 +13,6 @@ Those DSSs will provide a good base and the next step is libadt which will provi
 
 To be continued...
 
-<blockquote><strong>Update</strong> (2008/08/29): I have abandonned that hosting simply because I don't like the fact I can't really control the infrastructure or make it better / add feature. Now everything is back on my own server using Trac (<a href="http://nemoworld.info/projects/embryo">http://nemoworld.info/projects/embryo</a>).</blockquote>
+> **Update** (2008/08/29): I have abandonned that hosting simply because I don't like the fact I can't really control the infrastructure or make it better / add feature. Now everything is back on my own server using Trac ([http://www.nemoworld.info/projects/embryo](/projects/embryo)).
 
-<blockquote><strong>Update</strong> (2011/04/11): Any Embryosys news should be found here at <a href="http://embryo-systems.info">http://embryo-systems.info</a>. The source code is currently hosted on github and written in erlang.</blockquote>
+> **Update** (2011/04/11): Any Embryosys news should be found here at <http://embryo-systems.info/>. The source code is currently hosted on github and written in erlang.

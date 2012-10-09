@@ -13,4 +13,4 @@ We paid $109/day for a shoe box good enough for one (we are two), the bathroom i
 
 So Montreal is a great city but it’s a bad start … at least we found a charming place at Beaupré (near Quebec) for Saturday !
 
-**Update:** Ok, once they understood that everything was not working, they gave us a new room (in front of previous one), curiously much more cleaner and this time with no problem ! at last !
+> **Update:** Ok, once they understood that everything was not working, they gave us a new room (in front of previous one), curiously much more cleaner and this time with no problem ! at last !

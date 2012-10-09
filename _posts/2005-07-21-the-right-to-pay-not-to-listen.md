@@ -13,7 +13,7 @@ Besides, in France, there are several festivals during 3 to 4 days where the pri
 
 And how many time you have bought a CD album with 10-20 songs and thought that in fact only 2 are good and the other can be put in the trash ?
 
-Basicely you pay to have the right to listen, and I think it should the reverse : you listen and <strong>then</strong> you can pay, or you should even pay what do you want ! Oh this album is average lets give $5. Oh this album rocks, let’s give $15 !
+Basicely you pay to have the right to listen, and I think it should the reverse : you listen and **then** you can pay, or you should even pay what do you want ! Oh this album is average lets give $5. Oh this album rocks, let’s give $15 !
 
 It’s perhaps a bit utopic but it should be like that. Do you have to pay to see painting in a museum ? (in fact yes, but it’s for the maintenance work).
 
