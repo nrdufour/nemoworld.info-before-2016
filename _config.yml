@@ -1,5 +1,5 @@
 
 pygments: true
 
-exclude: [import_blog_into_jekyll]
+exclude: [import_blog_into_jekyll, Makefile, README.md]
 
