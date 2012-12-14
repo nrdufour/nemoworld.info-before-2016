@@ -7,4 +7,4 @@ tags: ['harvest', '2012']
 
 Today's harvest: last green beans and hot peppers!
 
-![20121014 harvest](/img/harvest-20121014.jpg)
+{% thumbnail harvest-20121014.jpg 640x480 %}
