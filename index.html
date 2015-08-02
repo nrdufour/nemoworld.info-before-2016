@@ -3,66 +3,12 @@ layout: default
 title: ~Nemoworld~
 ---
 
-<div class="container">
-   <div class="row">
-     <div class="span9">
-       <div class="container">
-         <div class="row">
-           <div class="span9">
-             <h3>> Latest news</h3>
-             {% for post in site.posts limit:5 %}
-             <p> <span class="post_date badge badge-inverse"> {{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></p>
-             {% endfor %}
-             <a href="/news.html">More...</a>
-           </div>
-         </div>
-         <div class="row">
-           <div class="span9">
-             <h3>> Current projects</h3>
-             <p>Opensource author for over 15 years, I try to publish as much as I can if it can help anybody else.</p>
-
-             <div class="container">
-               <div class="row">
-                 <div class="span3">
-                   <img alt="Halloween Icon" src="/img/Halloween.png" /> <span class="badge">Halloween 2012</span> - since 09/2012
-                   <br /><a href="https://github.com/nrdufour/dropping-spider/">https://github.com/nrdufour/dropping-spider/</a>
-                   <blockquote>Little dropping spider triggered by anybody passing by ;-). Powered by arduino and Adafruit devices.</blockquote>
-                 </div>
-                 <div class="span3">
-                   <img alt="Refuge logo Icon" src="/img/refuge-32x32.jpg" /> <span class="badge">Refuge</span> - since 2011
-                   <br /><a href="http://refuge.io/">http://refuge.io/</a>
-                   <blockquote>Aims to provide a fully decentralized and opensource data platform allowing to exchange data, process/render it and follow its life (translinks and links).</blockquote>
-                 </div>
-                 <div class="span3">
-                   <img alt="Similar project icon" src="/img/similar2.png" /> <span class="badge">Similar</span> - since 05/2009
-                   <br /><a href="https://github.com/nrdufour/similar/">https://github.com/nrdufour/similar/</a>
-                   <blockquote>Distributed Discrete Event Simulation Engine written in Erlang.</blockquote>
-                 </div>
-               </div>
-             </div>
-
-             <a href="/projects/">More...</a>
-           </div>
-         </div>
-         <div class="row">
-           <div class="span8">
-             <h3>> Miscellaneous</h3>
-             <p>
-               Stack of bits and pieces of information I wish to keep and share. More or less ordered ;-) <br />
-               <a href="/misc/">More...</a>
-             </p>
-           </div>
-         </div>
-       </div>
-     </div>
-     <div class="well span2">
-       <img alt="CapNemo face manga image" src="/img/capnemo.png" class="img-polaroid" /> <br /> <br />
-       <img alt="Refuge icon" src="/img/refuge-32x32.jpg" /> <a href="http://io.nemoworld.info/_utils">Local Refuge</a><br />
-       <img alt="github icon" src="https://github.com/favicon.ico" /> <a href="http://www.github.com/nrdufour">Github</a><br />
-       <img alt="twitter icon" src="/img/socialmediaicons/twitter-32x32.png" /> <a href="http://www.twitter.com/nrdufour">Twitter</a><br />
-       <img alt="linkedin icon" src="/img/socialmediaicons/linkedin-32x32.png" /> <a href="http://www.linkedin.com/in/nrdufour">LinkedIn</a><br />
-       <img alt="flickr icon" src="/img/socialmediaicons/flickr-32x32.png" /> <a href="http://www.flickr.com/photos/nrdufour/">Flickr</a>
-     </div>
-   </div>
+<div class="row">
+  <div class="col-md-10">
+    {% include home_dash.html %}
+  </div>
+  <div class="well col-md-2">
+    {% include sidebar.html %}
+  </div>
 </div>
 

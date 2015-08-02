@@ -2,6 +2,11 @@
  * main.css
  */
 
+html {
+    position: relative;
+    min-height: 100%;
+}
+
 a {
     text-decoration: none;
 }
@@ -9,12 +14,11 @@ a {
 body {
     //background-color: #F2F4F5;
     padding-top: 60px;
-    padding-left: 100px;
-    padding-right: 100px;
+    margin-bottom: 60px;
 }
 
 .navbar {
-    //font-family: monospace;
+    font-family: monospace;
 }
 
 h2 .selector {
@@ -41,7 +45,7 @@ h2 .selector {
 }
 
 .post_title {
-    font-size: large;
+    font-size: x-large;
     font-weight: bold;
 }
 
@@ -50,24 +54,24 @@ h2 .selector {
 }
 
 .post {
+    margin-bottom: 5px;
+    border-top: 1px dashed gray;
 }
 
-pre {
-    font-family: monospace;
-    -moz-border-radius: 15px;
-    -webkit-border-radius: 15px;
-    border-radius: 15px;
-    padding: 10px;
-}
-
-code {
-    font-family: monospace;
-}
-
-footer {
+/*footer {
     margin-top: 2em;
     text-align: right;
     font-family: monospace;
+}*/
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #dddddd;
+    padding-top: 5px;
 }
 
 ul p {
