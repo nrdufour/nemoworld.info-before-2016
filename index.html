@@ -3,12 +3,47 @@ layout: default
 title: ~Nemoworld~
 ---
 
-<div class="row">
-  <div class="col-md-10">
-    {% include home_dash.html %}
+<div class="row main-banner">
+  <div class="col-md-12">
+    <h1>~Nemoworld~<small><br/>A few notes</small></h1>
   </div>
-  <div class="well col-md-2">
-    {% include sidebar.html %}
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <h3><a href="/news/"><span class="glyphicon glyphicon-chevron-right"></span>Latest news</a></h3>
+    {% for post in site.posts limit:5 %}
+    <p>
+      <span class="post_date badge badge-inverse"> {{ post.date | date_to_string }}</span> 
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </p>
+    {% endfor %}
+    <p>
+      <span class="post_date badge badge-inverse"> fake date 3</span> 
+      <a href="#">fake title 3</a>
+    </p>
+    <p>
+      <span class="post_date badge badge-inverse"> fake date 4</span> 
+      <a href="#">fake title 4</a>
+    </p>
+    <p>
+      <span class="post_date badge badge-inverse"> fake date 5</span> 
+      <a href="#">fake title 4</a>
+    </p>
+  </div>
+  <div class="col-md-6">
+    <h3><a href="/notes/"><span class="glyphicon glyphicon-chevron-right"></span>Notes</a></h3>
+    <p>
+      Stack of bits and pieces of information I wish to keep and share. <br/> More or less ordered ;-)
+    </p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+  <h3><a href="/projects/"><span class="glyphicon glyphicon-chevron-right"></span>Current projects</a></h3>
+  <p>Opensource author for over 17 years, I try to publish as much as I can if it can help anybody else.</p>
+  {% include projects_tout.html %}
   </div>
 </div>
 
