@@ -2,18 +2,12 @@
  * main.css
  */
 
-html {
-    position: relative;
-    min-height: 100%;
-}
-
 a {
     text-decoration: none;
 }
 
 body {
-    padding-top: 70px;
-    margin-bottom: 60px;
+    padding-top: 20px;
 }
 
 .post_header {
@@ -36,16 +30,6 @@ body {
     border-bottom: 1px dashed gray;
 }
 
-.footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    /* Set the fixed height of the footer here */
-    height: 60px;
-    background-color: #dddddd;
-    padding-top: 5px;
-}
-
 .main-banner {
     background-image:url("/img/sensor_version_1.jpg");
     background-size: cover;
@@ -57,4 +41,9 @@ body {
 
 .main-banner small {
     color: lightgray;
+}
+
+.footer {
+    text-align: right;
+    margin-top: 10px;
 }
